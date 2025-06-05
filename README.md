@@ -31,4 +31,5 @@ git clone https://github.com/dhadkan99/ZapQuiz.git
 cd ZapQuiz
 ````
 📸 Preview
-![image](https://github.com/user-attachments/assets/1d5b9d63-1bce-4adb-8187-6ca718d1bbbb)
+![image](https://github.com/user-attachments/assets/99924958-b030-411b-a9c6-0649cb0980ab)
+
